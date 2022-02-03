@@ -1,3 +1,3 @@
 # MECH
-Install MQTT Lens
-https://www.hivemq.com/blog/mqtt-toolbox-mqtt-client-chrome-app/
+Install MQTT browser client 
+http://www.hivemq.com/demos/websocket-client/
